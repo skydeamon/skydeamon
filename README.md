@@ -5,7 +5,25 @@
   * Computer Science
   * Astronomy
   * Cosmology
-- 🌱 I am currently working as a Data Engineer.
+  * Big Data Analytics
+- 🌱 I am a Analyst Programmer.
+- Tools on my belt?
+  * Apache Spark
+  * Apache Hadoop
+  * Apache Airflow
+  * 
+  * AWS
+    * EMR
+    * Glue
+    * Athena
+    * S3
+    * Dynamo DB
+    * Redshift
+    * Codecommit/CodePipeline
+    * EC2
+    * RDS
+    * IAM
+    * etc
 - 💞️ Hit me up for any project needing
   * Python
   * Java
