@@ -34,8 +34,7 @@
   * Machine Learning
   * Database architecture
 - 📫 My Socials
-  * [LinkedIn](https://www.instagram.com/jademakwela/)
-  * [Instagram](https://www.linkedin.com/in/jade-makwela-6a79111a8/)
+  * [LinkedIn](https://www.linkedin.com/in/jade-makwela-6a79111a8/)
 
 <!---
 skydeamon/skydeamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
